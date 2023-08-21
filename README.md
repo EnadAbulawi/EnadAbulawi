@@ -1,10 +1,32 @@
-- 👋 Hi, I’m @EnadAbulawi .
-- 👀 I’m interested in Coding .
-- 🌱 I’m currently learning DART % Flutter .
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+<h2 align="left">Hi 👋! My name is Enad Abulawi and I'm a Flutter Developer , from Palestine</h2>
 
-<!---
-EnadAbulawi/EnadAbulawi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="30" alt="dart logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="30" alt="flutter logo"  />
+</div>
+
+###
+
+<div align="left">
+  <a href="https://www.instagram.com/enad.design/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  </a>
+  <a href="https://www.facebook.com/EnadAbulawi/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
+  </a>
+</div>
+
+###
+
+<img align="right" height="150" src="https://tenor.com/eDIc1UjbaRK.gif"  />
+
+###
+
+<div align="center">
+  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4" alt="Layout with last medium posts"  />
+</div>
+
+###
