@@ -3,11 +3,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=enadabulawi&label=Profile%20views&color=0e75b6&style=flat" alt="enadabulawi" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=enadabulawi" alt="enadabulawi" /></a> </p>
+
 - 🔭 I’m currently working on [Noor App](https://play.google.com/store/apps/details?id=com.Enad.Noor&hl=ar)
+
+- 🌱 I’m currently learning **Dart & Flutter**
 
 - 💬💬 Ask me about **Flutter & Problem solving**
 
 - 📫 How to reach me **https://www.linkedin.com/in/enadabulawi/**
+
+- ⚡ Fun fact **You don’t have to work in tech to use coding**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -21,3 +27,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=enadabulawi&show_icons=true&locale=en&layout=compact" alt="enadabulawi" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=enadabulawi&show_icons=true&locale=en" alt="enadabulawi" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=enadabulawi&" alt="enadabulawi" /></p>
