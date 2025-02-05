@@ -8,7 +8,7 @@
 </p>
 
 
-- 🔭 I’m currently working on [Noor App](https://play.google.com/store/apps/details?id=com.Enad.Noor&hl=ar)   <img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white" />
+- 🔭 I’m currently working on [Noor App](https://play.google.com/store/apps/details?id=com.Enad.Noor&hl=ar) 
 
 - 🌱 I’m currently learning **Dart & Flutter**
 
