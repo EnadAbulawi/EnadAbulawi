@@ -11,8 +11,10 @@
 
 ### 🚀 About Me
 - 🔭 Currently working on:  
-  [Noor App](https://play.google.com/store/apps/details?id=com.Enad.Noor&hl=ar)  
+  [Noor App](https://play.google.com/store/apps/details?id=com.Enad.Noor&hl=ar)
+  
   [Mushaf Noor App](https://play.google.com/store/apps/details?id=com.Noor.MushafNoor&pli=1)
+  
   [Snackly Package](https://pub.dev/packages/snackly)
 
 - 🌱 Learning: **Dart & Flutter**
