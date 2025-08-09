@@ -16,7 +16,7 @@
 
 - 🌱 Learning: **Dart & Flutter**
 - 💬 Ask me about: **Flutter & Problem Solving**
-- 📫 Reach me via: [LinkedIn](https://www.linkedin.com/in/enadabulawi/)  
+- 📫 Reach me via: [LinkedIn](https://www.linkedin.com/in/enadabulawi1/)  
 - ⚡ Fun fact: *You don’t have to work in tech to use coding*
 
 ---
