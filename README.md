@@ -9,7 +9,7 @@
 
 
 - 🔭 I’m currently working on [Noor App](https://play.google.com/store/apps/details?id=com.Enad.Noor&hl=ar) 
-- 
+
 - 🔭 I’m currently working on [Mushaf Noor App](https://play.google.com/store/apps/details?id=com.Noor.MushafNoor&pli=1)
   
 - 🌱 I’m currently learning **Dart & Flutter**
