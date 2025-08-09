@@ -8,7 +8,7 @@
 </p>
 
 
-- 🔭 I’m currently working on [Noor App](https://play.google.com/store/apps/details?id=com.Enad.Noor&hl=ar) 
+- 🔭 I’m currently working on [Noor App](https://play.google.com/store/apps/details?id=com.Enad.Noor&hl=ar) && [Mushaf Noor App] (https://play.google.com/store/apps/details?id=com.Noor.MushafNoor&pli=1)
 
 - 🌱 I’m currently learning **Dart & Flutter**
 
@@ -20,7 +20,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/enadabulawi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="enadabulawi" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/enadabulawi1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="enadabulawi" height="30" width="40" /></a>
 <a href="https://instagram.com/enad.dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="enad.dev" height="30" width="40" /></a>
 </p>
 
