@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Enad Abulawi</h1>
+<h1 align="center">Al-Salam Alikum 👋, I'm Enad Abulawi</h1>
 <h3 align="center">💙 Flutter Developer from Palestine</h3>
 
 <p align="center">
