@@ -1,20 +1,24 @@
 <div align="center">
+
 <br/>
+
 # Enad Abulawi
- 
+
 **Flutter & Dart Developer** · Palestine 🇵🇸
- 
+
 <br/>
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white&labelColor=ffffff)](https://linkedin.com/in/enadabulawi1)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white&labelColor=ffffff)](https://instagram.com/enad.dev)
 [![GitHub](https://img.shields.io/badge/GitHub-111111?style=flat&logo=github&logoColor=white&labelColor=ffffff)](https://github.com/enadabulawi)
 [![Profile Views](https://komarev.com/ghpvc/?username=enadabulawi&style=flat&color=0175C2)](https://github.com/enadabulawi)
- 
+
 </div>
+
 ---
- 
+
 ## About
- 
+
 ```dart
 class EnadAbulawi {
   final String name = "Enad Abulawi";
@@ -40,38 +44,38 @@ class EnadAbulawi {
   }
 }
 ```
- 
+
 ---
- 
+
 ## Skills
- 
+
 ### 📱 Mobile Development
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white)
 ![iOS](https://img.shields.io/badge/iOS-000000?style=flat&logo=apple&logoColor=white)
- 
+
 ### 🔧 Backend & Services
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
 ![REST APIs](https://img.shields.io/badge/REST_APIs-039BE5?style=flat&logo=postman&logoColor=white)
 ![Cloud Firestore](https://img.shields.io/badge/Firestore-FFA500?style=flat&logo=firebase&logoColor=white)
 ![Authentication](https://img.shields.io/badge/Firebase_Auth-FFCA28?style=flat&logo=firebase&logoColor=black)
- 
+
 ### 🛠️ Tools & DevOps
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
- 
+
 ### 🎨 Design Tools
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat&logo=adobe-photoshop&logoColor=white)
 ![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=flat&logo=adobe-illustrator&logoColor=white)
- 
+
 ---
- 
+
 ## Code Examples
- 
+
 ### Custom Widget Implementation
 ```dart
 class IslamicAppBar extends StatelessWidget {
@@ -119,7 +123,7 @@ class IslamicAppBar extends StatelessWidget {
   }
 }
 ```
- 
+
 ### Firebase Integration Pattern
 ```dart
 class QuranRepository {
@@ -151,7 +155,7 @@ class QuranRepository {
   }
 }
 ```
- 
+
 ### State Management with Provider
 ```dart
 class AzkarProvider extends ChangeNotifier {
@@ -182,7 +186,7 @@ class AzkarProvider extends ChangeNotifier {
   }
 }
 ```
- 
+
 ### API Integration with Dio
 ```dart
 class ApiClient {
@@ -209,11 +213,11 @@ class ApiClient {
   }
 }
 ```
- 
+
 ---
- 
+
 ## Projects
- 
+
 ### 📖 Noor App
 **Islamic companion application**
 ```
@@ -224,7 +228,7 @@ Technologies: Flutter, Firebase, Provider, Dio
 Features: Quran reading, Daily Azkar, Prayer times
 ```
 [Download](https://play.google.com/store/apps/details?id=com.Enad.Noor&hl=ar)
- 
+
 ### 🕌 Mushaf Noor
 **Beautiful Quran reading experience**
 ```
@@ -234,7 +238,7 @@ Technologies: Flutter, Cloud Firestore, Hive
 Features: Smooth reading, Bookmarks, Search, Tajweed
 ```
 [Download](https://play.google.com/store/apps/details?id=com.Noor.MushafNoor&pli=1)
- 
+
 ### 📦 Snackly Package
 **Elegant notification widgets for Flutter**
 ```dart
@@ -248,11 +252,11 @@ Snackly.show(
 );
 ```
 [View on pub.dev](https://pub.dev/packages/snackly)
- 
+
 ---
- 
+
 ## Development Approach
- 
+
 ### Architecture Pattern
 ```
 lib/
@@ -264,7 +268,7 @@ lib/
 ├── widgets/            # Custom widgets
 └── utils/              # Utilities & helpers
 ```
- 
+
 ### Best Practices
 ✅ Clean Architecture principles  
 ✅ SOLID design principles  
@@ -274,25 +278,29 @@ lib/
 ✅ Responsive UI design  
 ✅ Code documentation  
 ✅ Git version control  
- 
+
 ---
- 
+
 ## GitHub Statistics
- 
+
 <div align="center">
+
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=enadabulawi&show_icons=true&theme=default&hide_border=true&title_color=000000&icon_color=0175C2&text_color=555555&bg_color=ffffff&include_all_commits=true)](https://github.com/enadabulawi)
- 
+
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=enadabulawi&layout=compact&theme=default&hide_border=true&title_color=000000&text_color=555555&bg_color=ffffff)](https://github.com/enadabulawi)
- 
+
 </div>
+
 <div align="center">
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=enadabulawi&theme=default&hide_border=true&ring=0175C2&fire=0175C2&currStreakLabel=0175C2)](https://github.com/enadabulawi)
- 
+
 </div>
+
 ---
- 
+
 ## Experience Highlights
- 
+
 **3+ Years of Mobile Development**
 - Built and published 2 production apps on Google Play Store
 - Published open-source Flutter package (snackly)
@@ -300,12 +308,15 @@ lib/
 - Implemented modern state management solutions
 - Created responsive UI for multiple device types
 - Optimized app performance and user experience
+
 ---
- 
+
 <div align="center">
+
 <br/>
+
 **من فلسطين، نبني للعالم** 🇵🇸
- 
+
 <sub>Let's build something amazing together — [Connect with me](https://linkedin.com/in/enadabulawi1)</sub>
- 
+
 </div>
