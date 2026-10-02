@@ -19,28 +19,20 @@ I'm a passionate **Flutter & Dart Developer** from Palestine dedicated to buildi
 
 ## 💼 Featured Projects
 
-<table>
-  <tr>
-    <td align="center">
-      <img src="https://via.placeholder.com/150" alt="Noor App" width="120" style="border-radius:12px"/>
-      <br/><b>Noor App</b>
-      <br/>📖 Quranic Reading Experience
-      <br/><a href="https://play.google.com/store/apps/details?id=com.Enad.Noor">View on Play Store →</a>
-    </td>
-    <td align="center">
-      <img src="https://via.placeholder.com/150" alt="Mushaf Noor" width="120" style="border-radius:12px"/>
-      <br/><b>Mushaf Noor</b>
-      <br/>📿 Digital Mushaf Platform
-      <br/><a href="https://play.google.com/store/apps/details?id=com.Noor.MushafNoor">View on Play Store →</a>
-    </td>
-    <td align="center">
-      <img src="https://via.placeholder.com/150" alt="Snackly" width="120" style="border-radius:12px"/>
-      <br/><b>Snackly</b>
-      <br/>🔔 Flutter Notifications Package
-      <br/><a href="https://pub.dev/packages/snackly">View on Pub.dev →</a>
-    </td>
-  </tr>
-</table>
+### 📖 Noor App
+**Quranic Reading Experience**
+- 🔗 [Download on Google Play Store](https://play.google.com/store/apps/details?id=com.Enad.Noor)
+- A beautifully designed app for reading and studying the Quran with elegant interface and smooth user experience
+
+### 📿 Mushaf Noor
+**Digital Mushaf Platform**
+- 🔗 [Download on Google Play Store](https://play.google.com/store/apps/details?id=com.Noor.MushafNoor)
+- A comprehensive digital platform for accessing and reading Quranic texts with advanced features
+
+### 🔔 Snackly
+**Flutter Package for Elegant Notifications**
+- 🔗 [View on Pub.dev](https://pub.dev/packages/snackly)
+- A powerful and flexible Flutter package designed to create beautiful and customizable notifications with ease
 
 ---
 
